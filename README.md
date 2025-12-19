@@ -11,7 +11,6 @@ This repository contains the reference implementation for **Inter-Agency Collabo
 IACP introduces a paradigm shift from agent orchestration to agent collaboration, where:
 - **Mono-professional specialist agents** dynamically assemble around shared tasks
 - A **facilitator agent** enables collaboration without centralizing domain expertise
-- A **Central Intelligent Engine (CIE)** continuously learns from outcomes
 - Intelligence emerges from structured interaction rather than centralized control
 
 ## Key Concepts
