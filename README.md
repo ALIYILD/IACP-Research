@@ -52,32 +52,26 @@ IACP:           Facilitator ↔ [Specialist Agents] ↔ Task (facilitated collab
 - Facilitator-guided coordination
 - Mono-professional specialist agents
 
-### 2. Central Intelligent Engine (CIE)
-- Outcome tracking and evaluation
-- Agent trust score adjustment
-- Performance-based agent recommendations
-- Closed-loop learning system
-
-### 3. Iterative Collaboration
+### 2. Iterative Collaboration
 - Reassessment triggers
 - Convergence criteria
 - Strategy adaptation
 - Non-linear problem solving
 
-### 4. Enhanced Conflict Detection
+### 3. Enhanced Conflict Detection
 All four conflict types from the paper:
 - **Direct Contradiction** - Mutually exclusive recommendations
 - **Resource Competition** - Competing for same resources
 - **Priority Disagreement** - Different priority orderings
 - **Constraint Violation** - Recommendations violating constraints
 
-### 5. Multi-Task Participation
+### 4. Multi-Task Participation
 - Agents participating in multiple tasks concurrently
 - Cross-task insight sharing
 - Professional accountability tracking
 - Context preservation
 
-### 6. Architecture Comparison
+### 5. Architecture Comparison
 - Side-by-side comparison with Orchestration and A2A
 - Metrics: explainability, scalability, robustness
 
